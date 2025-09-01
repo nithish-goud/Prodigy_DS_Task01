@@ -12,7 +12,7 @@ import seaborn as sns
 #
 #2. Load Data set
 #
-df = pd.read_csv(http://github.com/Prodigy-InfoTech/data-science-datasets/tree/main/Task%201)
+df = pd.read_csv("C:\Users\Ruchi\Downloads\large_population.csv")
 df.head()
 #
 #3. Bar Chart
